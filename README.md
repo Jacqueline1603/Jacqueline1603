@@ -219,8 +219,7 @@ Universidad Tecnológica de Tlaxcala | 2024 - Presente
 Aplicación móvil de catálogo digital para una tienda de dulces tradicionales.
 
 🎥 Video demostración  
-<a href="https://youtu.be/oLUtiBfXnG8">
-<img src="https://img.youtube.com/vi/oLUtiBfXnG8/0.jpg">
+<a href="https://youtu.be/OY4DUCtWYqg">
 </a>
 
 ---
