@@ -46,13 +46,7 @@ Perfil profesional en Entornos Virtuales
 <a id="sobre-mi"></a>
 ## 👩‍💻 Sobre mí
 
-Soy una desarrolladora web y diseñadora digital comprometida con el aprendizaje constante y la mejora continua. Me caracterizo por mi responsabilidad, disciplina y capacidad de adaptación a nuevos retos, buscando siempre desarrollar soluciones creativas, eficientes y orientadas a resultados.
-
-Cuento con experiencia en desarrollo web, diseño digital y producción multimedia. Trabajo con tecnologías como HTML, CSS, Python, Bootstrap, Django, SQL y C#, gestionando bases de datos en PostgreSQL y XAMPP, además de desarrollar proyectos interactivos en Unity.
-
-En el área creativa utilizo herramientas como Blender, Krita, IbisPaint, Photoshop, Adobe Premiere y Adobe Audition, combinando tecnología y diseño para crear experiencias digitales atractivas. También tengo conocimientos en mercadotecnia digital y gestión de redes sociales, aplicando estrategias de contenido y análisis de métricas como community manager.
-
-Destaco por mi creatividad, trabajo en equipo, comunicación y perseverancia, buscando aportar valor en cada proyecto en el que participo.
+Me considero una persona sociable, responsable 
 
 ---
 
@@ -184,6 +178,7 @@ Google Sheets
 # ⭐ Habilidades personales
 
 - Creatividad
+- Responsable
 - Trabajo en equipo
 - Comunicación
 - Resolución de problemas
@@ -196,31 +191,21 @@ Google Sheets
 # 🌎 Idiomas
 
 - Español — Nativo  
-- Inglés — Intermedio/Alto
+- Inglés — Intermedio
 
 ---
 
 <a id="experiencia"></a>
 # 💼 Experiencia laboral
 
-## 🏢 Excursiones Tlaxcalita la Bella  
-**Community Manager** | 2024 - 2025  
+## Joyeria Jalisco 💎
+**Community Manager y Atencion al cliente** 2021-2023
 
-<img src="img/CapturaFB.png" width="500">
+## Programa Jovenes Construyendo el Futuro  
+**Aux Contable** 2023-2024
 
-- Manejo de publicidad pagada
-- Interacción con seguidores
-- Publicación de contenido
-
----
-
-## 🏢 Excursiones Tlaxcalita la Bella  
-**Diseñadora e ilustradora digital** | 2024 - Presente  
-
-<img src="img/Imanes.png" width="500">
-
-- Creación de ilustraciones
-- Creación de contenido multimedia
+## Cafeteria Kafiztle
+**Community Manager, atencion al cliente y barista** 2024
 
 ---
 
