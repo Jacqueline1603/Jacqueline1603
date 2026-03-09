@@ -240,7 +240,6 @@ Cortometraje audiovisual para concientizar sobre la violencia en el noviazgo.
 
 🎬 Ver cortometraje  
 <a href="https://youtu.be/LrecP3HFgJ48">
-<img src="https://img.youtube.com/vi/LrecP3HFgJ48.jpg">
 </a>
 
 ---
@@ -249,8 +248,7 @@ Cortometraje audiovisual para concientizar sobre la violencia en el noviazgo.
 Cortometraje animado en 2D enfocado en la concientización sobre el bullying.
 
 🎬 Ver cortometraje  
-<a href="https://youtu.be/CWNvwpcs-6s">
-<img src="https://img.youtube.com/vi/CWNvwpcs-6s/0.jpg">
+<a href="https://youtu.be/oqTV3Y-3fxI">
 </a>
 
 ---
