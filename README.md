@@ -19,7 +19,7 @@ Perfil profesional en Entornos Virtuales
 📍 Tlaxcala, México  
 📧 jacqueline16utt@gmail.com  
 📱 241-119-8587
-🌐 <a href="https://linktr.ee/NadiaNoya">Redes sociales</a>
+🌐 <a href="https://linktr.ee/JacquelineLuna">Redes sociales</a>
 
 </td>
 </tr>
@@ -88,11 +88,6 @@ Premiere
 <td>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Adobe_Audition_CC_icon_%282020%29.svg/1280px-Adobe_Audition_CC_icon_%282020%29.svg.png?_=20200616120744" width="48"><br>
 Audition
-</td>
-
-<td>
-<img src="https://static.wikia.nocookie.net/logo_editing/images/f/f2/FL_Studio_2024.png/revision/latest?cb=20250715102654" width="48"><br>
-FL Studio
 </td>
 
 <td>
