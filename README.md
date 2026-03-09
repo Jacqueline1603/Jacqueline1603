@@ -14,12 +14,12 @@ Perfil profesional en Entornos Virtuales
 <td>
 
 <h1>Jacqueline Luna Marines</h1>
-<h3>Desarrolladora Web | Diseñadora Digital | Especialidad en diseño y producción audiovisual | Animación digital</h3>
+<h3> Diseñadora Digital | Especialidad en diseño y producción audiovisual | Animación digital </h3>
 
-📍 Tlaxcala, México  
-📧 jacqueline16utt@gmail.com  
-📱 241-119-8587
-🌐 <a href="https://linktr.ee/JacquelineLuna">Redes sociales</a>
+ Lugar: Tlaxcala, México  
+ Correo: jacqueline16utt@gmail.com 
+ Numero: 241-119-8587
+ <a href="https://linktr.ee/JacquelineLuna">Redes sociales</a>
 
 </td>
 </tr>
@@ -40,7 +40,7 @@ Perfil profesional en Entornos Virtuales
 </p>
 
 <p align="center">
-<img src="img/Banner.png" width="100%">
+<img src="" width="100%">
 </p>
 
 <a id="sobre-mi"></a>
