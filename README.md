@@ -228,8 +228,7 @@ Aplicación móvil de catálogo digital para una tienda de dulces tradicionales.
 Sistema de inventario para PC para la gestión de productos de una tienda de dulces tradicionales.
 
 🎥 Video demostración  
-<a href="https://youtu.be/15jF0dVvU9c">
-<img src="https://img.youtube.com/vi/15jF0dVvU9c/0.jpg">
+<a href="https://youtu.be/gheBnIjKZtk">
 </a>
 
 ---
