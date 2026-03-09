@@ -239,8 +239,8 @@ Sistema de inventario para PC para la gestión de productos de una tienda de dul
 Cortometraje audiovisual para concientizar sobre la violencia en el noviazgo.
 
 🎬 Ver cortometraje  
-<a href="https://youtu.be/SglPSpD_hP8">
-<img src="https://img.youtube.com/vi/SglPSpD_hP8/0.jpg">
+<a href="https://youtu.be/LrecP3HFgJ48">
+<img src="https://img.youtube.com/vi/LrecP3HFgJ48.jpg">
 </a>
 
 ---
