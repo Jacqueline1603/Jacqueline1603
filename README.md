@@ -220,6 +220,7 @@ Aplicación móvil de catálogo digital para una tienda de dulces tradicionales.
 
 🎥 Video demostración  
 <a href="https://youtu.be/OY4DUCtWYqg">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver video">
 </a>
 
 ---
@@ -229,6 +230,7 @@ Sistema de inventario para PC para la gestión de productos de una tienda de dul
 
 🎥 Video demostración  
 <a href="https://youtu.be/gheBnIjKZtk">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver video">
 </a>
 
 ---
@@ -238,6 +240,7 @@ Cortometraje audiovisual para concientizar sobre la violencia en el noviazgo.
 
 🎬 Ver cortometraje  
 <a href="https://youtu.be/LrecP3HFgJ48">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver video">
 </a>
 
 ---
@@ -247,6 +250,7 @@ Cortometraje animado en 2D enfocado en la concientización sobre el bullying.
 
 🎬 Ver cortometraje  
 <a href="https://youtu.be/oqTV3Y-3fxI">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Ver video">
 </a>
 
 ---
