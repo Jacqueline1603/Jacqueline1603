@@ -257,22 +257,39 @@ Cortometraje animado en 2D enfocado en la concientización sobre el bullying.
 
 ### 👩 Carteles digitales animados contra la violencia hacia la mujer
 
-<p align="center">
+---
 
-<img src="img/(19)Lagrimas.gif" width="180">
-<img src="img/(20)Faceless.gif" width="180">
-<img src="img/(21)NiUnaMenos.gif" width="180">
+#### 🟣 Concientización y Denuncia
+Enfoque en visibilizar problemáticas sociales y romper el silencio.
 
-<img src="img/(22)Ajedrez.gif" width="180">
-<img src="img/(23)Lucha.gif" width="180">
-<img src="img/(24)Worldwide.gif" width="180">
+* **Rostros Invisibles** <a href="https://drive.google.com/file/d/1UxMuv75KsKF_9Fi_41S7J7cJiMEU0cvc/view">
+      <img src="https://img.shields.io/badge/GIF-Rostros--Invisibles-9370DB?style=for-the-badge&logo=google-drive&logoColor=white" alt="Ver GIF">
+    </a>
 
-<img src="img/(25)Gotas.gif" width="180">
-<img src="img/(26)Gotas.gif" width="180">
-<img src="img/(27)TodasContamos.gif" width="180">
+* **Rompiendo el Silencio** <a href="https://drive.google.com/file/d/1UxMuv75KsKF_9Fi_41S7J7cJiMEU0cvc/view">
+      <img src="https://img.shields.io/badge/GIF-Romper--Silencio-9370DB?style=for-the-badge&logo=google-drive&logoColor=white" alt="Ver GIF">
+    </a>
 
-</p>
+* **La Sombra del Problema** <a href="https://drive.google.com/file/d/1UxMuv75KsKF_9Fi_41S7J7cJiMEU0cvc/view">
+      <img src="https://img.shields.io/badge/GIF-La--Sombra-9370DB?style=for-the-badge&logo=google-drive&logoColor=white" alt="Ver GIF">
+    </a>
 
+---
+
+#### 🟢 Resiliencia y Apoyo
+Enfoque en la recuperación, la solidaridad y la unión.
+
+* **Esperanza y Lucha** <a href="https://drive.google.com/file/d/1UxMuv75KsKF_9Fi_41S7J7cJiMEU0cvc/view">
+      <img src="https://img.shields.io/badge/GIF-Esperanza--Lucha-2E8B57?style=for-the-badge&logo=google-drive&logoColor=white" alt="Ver GIF">
+    </a>
+
+* **Solidaridad y Voces Unidas** <a href="https://drive.google.com/file/d/1UxMuv75KsKF_9Fi_41S7J7cJiMEU0cvc/view">
+      <img src="https://img.shields.io/badge/GIF-Solidaridad-2E8B57?style=for-the-badge&logo=google-drive&logoColor=white" alt="Ver GIF">
+    </a>
+
+* **Reconstrucción y Fortaleza** <a href="https://drive.google.com/file/d/1UxMuv75KsKF_9Fi_41S7J7cJiMEU0cvc/view">
+      <img src="https://img.shields.io/badge/GIF-Fortaleza-2E8B57?style=for-the-badge&logo=google-drive&logoColor=white" alt="Ver GIF">
+    </a>
 ---
 
 <a id="certificados"></a>
