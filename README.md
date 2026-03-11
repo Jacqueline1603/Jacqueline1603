@@ -215,10 +215,6 @@ Google Sheets
 
 <a id="educacion"></a>
 # Educación
-<a href="https://drive.google.com/drive/folders/1Dz-AeP3jSRozBGYjvEtL2o-UKndSY7SF?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Certificados-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificados Educación">
-</a>
-# Educación
 
 **TSU en Tecnologías de la Información Área Entornos Virtuales y Negocios Digitales**  
 Universidad Tecnológica de Tlaxcala | 2024 - Presente
