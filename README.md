@@ -170,7 +170,7 @@ Google Sheets
 ---
 
 <a id="habilidades"></a>
-# ⭐ Habilidades personales
+# Habilidades personales
 
 - Creatividad
 - Responsable
@@ -183,7 +183,7 @@ Google Sheets
 
 ---
 <a id="idiomas"></a>
-# 🌎 Idiomas
+# Idiomas
 
 - Español — Nativo  
 - Inglés — Intermedio
@@ -191,7 +191,7 @@ Google Sheets
 ---
 
 <a id="experiencia"></a>
-# 💼 Experiencia laboral
+# Experiencia laboral
 
 ## Joyeria Jalisco 💎
 **Community Manager y Atencion al cliente** 2021-2023
@@ -205,7 +205,7 @@ Google Sheets
 ---
 
 <a id="educacion"></a>
-# 🎓 Educación
+# Educación
 
 **TSU en Tecnologías de la Información Área Entornos Virtuales y Negocios Digitales**  
 Universidad Tecnológica de Tlaxcala | 2024 - Presente
@@ -213,9 +213,9 @@ Universidad Tecnológica de Tlaxcala | 2024 - Presente
 ---
 
 <a id="proyectos"></a>
-# 🚀 Proyectos
+# Proyectos
 
-### 🍬 Catálogo digital en aplicación móvil
+### Catálogo digital en aplicación móvil
 Aplicación móvil de catálogo digital para una tienda de dulces tradicionales.
 
 🎥 Video demostración  
@@ -225,7 +225,7 @@ Aplicación móvil de catálogo digital para una tienda de dulces tradicionales.
 
 ---
 
-### 🌐 Sistema de inventario para PC
+### Sistema de inventario para PC
 Sistema de inventario para PC para la gestión de productos de una tienda de dulces tradicionales.
 
 🎥 Video demostración  
@@ -245,7 +245,7 @@ Cortometraje audiovisual para concientizar sobre la violencia en el noviazgo.
 
 ---
 
-### 🎨 Cortometraje animado **"Mr. Cascabel"**
+### 🎞️ Cortometraje animado **"Mr. Cascabel"**
 Cortometraje animado en 2D enfocado en la concientización sobre el bullying.
 
 🎬 Ver cortometraje  
@@ -262,15 +262,15 @@ Cortometraje animado en 2D enfocado en la concientización sobre el bullying.
 #### 🟣 Concientización y Denuncia
 Enfoque en visibilizar problemáticas sociales y romper el silencio.
 
-* **Rostros Invisibles** <a href="https://drive.google.com/file/d/1UxMuv75KsKF_9Fi_41S7J7cJiMEU0cvc/view">
+* **Rostros Invisibles** <a href="https://drive.google.com/file/d/1AUaCu1zlsa1tMAVT-G6N7GRz5LWagYcv/view?usp=sharing">
       <img src="https://img.shields.io/badge/GIF-Rostros--Invisibles-9370DB?style=for-the-badge&logo=google-drive&logoColor=white" alt="Ver GIF">
     </a>
 
-* **Rompiendo el Silencio** <a href="https://drive.google.com/file/d/1UxMuv75KsKF_9Fi_41S7J7cJiMEU0cvc/view">
+* **Rompiendo el Silencio** <a href="https://drive.google.com/file/d/1mwAR-XwbfgpffXEocNpVcX1JNzKqbMLv/view?usp=sharing">
       <img src="https://img.shields.io/badge/GIF-Romper--Silencio-9370DB?style=for-the-badge&logo=google-drive&logoColor=white" alt="Ver GIF">
     </a>
 
-* **La Sombra del Problema** <a href="https://drive.google.com/file/d/1UxMuv75KsKF_9Fi_41S7J7cJiMEU0cvc/view">
+* **La Sombra del Problema** <a href="https://drive.google.com/file/d/19dC6uKkKOkRGY_ZSpuVr_vYwu9qyHmC4/view?usp=sharing">
       <img src="https://img.shields.io/badge/GIF-La--Sombra-9370DB?style=for-the-badge&logo=google-drive&logoColor=white" alt="Ver GIF">
     </a>
 
@@ -279,15 +279,19 @@ Enfoque en visibilizar problemáticas sociales y romper el silencio.
 #### 🟢 Resiliencia y Apoyo
 Enfoque en la recuperación, la solidaridad y la unión.
 
-* **Esperanza y Lucha** <a href="https://drive.google.com/file/d/1UxMuv75KsKF_9Fi_41S7J7cJiMEU0cvc/view">
+* **Esperanza y Lucha** <a href="https://drive.google.com/file/d/1OAPNXHw7uROlQEr3S-ahxGiCmk9vNDVq/view?usp=sharing">
       <img src="https://img.shields.io/badge/GIF-Esperanza--Lucha-2E8B57?style=for-the-badge&logo=google-drive&logoColor=white" alt="Ver GIF">
     </a>
 
-* **Solidaridad y Voces Unidas** <a href="https://drive.google.com/file/d/1UxMuv75KsKF_9Fi_41S7J7cJiMEU0cvc/view">
+* **Solidaridad** <a href="https://drive.google.com/file/d/1SOQx9clLzS07yX3oCDwJCLvDWELxtwWl/view?usp=sharing">
       <img src="https://img.shields.io/badge/GIF-Solidaridad-2E8B57?style=for-the-badge&logo=google-drive&logoColor=white" alt="Ver GIF">
     </a>
 
-* **Reconstrucción y Fortaleza** <a href="https://drive.google.com/file/d/1UxMuv75KsKF_9Fi_41S7J7cJiMEU0cvc/view">
+* **Voces Unidas** <a href="https://drive.google.com/file/d/1OyCnfYiv5NdsqFUZfbM-BcyXqeH5BrYR/view?usp=sharing">
+      <img src="https://img.shields.io/badge/GIF-Solidaridad-2E8B57?style=for-the-badge&logo=google-drive&logoColor=white" alt="Ver GIF">
+    </a>
+
+* **Reconstrucción y Fortaleza** <a href="https://drive.google.com/file/d/1cvBQzLWDwp3_qQCLBGqdctkleZNY-UWc/view?usp=sharing">
       <img src="https://img.shields.io/badge/GIF-Fortaleza-2E8B57?style=for-the-badge&logo=google-drive&logoColor=white" alt="Ver GIF">
     </a>
 ---
