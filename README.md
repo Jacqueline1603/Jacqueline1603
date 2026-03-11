@@ -194,17 +194,30 @@ Google Sheets
 # Experiencia laboral
 
 ## Joyeria Jalisco 💎
-**Community Manager y Atencion al cliente** 2021-2023
+**Community Manager y Atencion al cliente** 2021-2023  
+<a href="https://drive.google.com/file/d/1xqGn2SE5xUP9wXoQf4C8Lhb8T-oKPTVt/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_Evidencia-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Evidencia Joyeria">
+</a>
 
 ## Programa Jovenes Construyendo el Futuro  
-**Aux Contable** 2023-2024
+**Aux Contable** 2023-2024  
+<a href="https://drive.google.com/file/d/1pUU4pW8G4k8wJalUJdQwc34RHM82qWpt/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_Evidencia-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Evidencia Jovenes Construyendo">
+</a>
 
 ## Cafeteria Kafiztle
-**Community Manager, atencion al cliente y barista** 2024
+**Community Manager, atencion al cliente y barista** 2024  
+<a href="https://drive.google.com/file/d/1-AzDtfq9QG-EU98J5-PatLoOsfG76YS8/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_Evidencia-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Evidencia Cafeteria">
+</a>
 
 ---
 
 <a id="educacion"></a>
+# Educación
+<a href="https://drive.google.com/drive/folders/1Dz-AeP3jSRozBGYjvEtL2o-UKndSY7SF?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Certificados-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificados Educación">
+</a>
 # Educación
 
 **TSU en Tecnologías de la Información Área Entornos Virtuales y Negocios Digitales**  
