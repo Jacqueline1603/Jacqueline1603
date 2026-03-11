@@ -304,72 +304,66 @@ Enfoque en la recuperación, la solidaridad y la unión.
       <img src="https://img.shields.io/badge/GIF-Fortaleza-2E8B57?style=for-the-badge&logo=google-drive&logoColor=white" alt="Ver GIF">
     </a>
 ---
-
 <a id="certificados"></a>
 <h1>📜 Constancias y Certificaciones</h1>
 
-<table>
+<p>
+  <img src="img/c1.png" width="300px">
+  <br>
+  <b>Curso: Diseño publicitario digital | Abril, 2025</b>
+  <br>
+  <a href="https://drive.google.com/file/d/1pTnlrYLuQOeZhAQdjE-InAEU8Zam0eq4/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Certificado-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificado">
+  </a>
+</p>
 
-<tr>
+<hr>
 
-<td width="33%" align="center">
-<img src="img/c1.png" width="100%">
-<br>
-<b>Curso: Diseño publicitario digital | Abril, 2025</b>
-<br><br>
-<a href="https://drive.google.com/file/d/1pTnlrYLuQOeZhAQdjE-InAEU8Zam0eq4/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_Certificado-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificado">
-</a>
-</td>
+<p>
+  <img src="img/c3.png" width="300px">
+  <br>
+  <b>Segundo Congreso de Tecnología y Ciberseguridad | Octubre, 2026</b>
+  <br>
+  <a href="https://drive.google.com/file/d/16HvLh5ut8jz7-PdBwu4bEtYRdTsTV2CC/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Certificado-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificado">
+  </a>
+</p>
 
-<td width="33%" align="center">
-<img src="img/c3.png" width="100%">
-<br>
-<b>Segundo Congreso de Tecnología y Ciberseguridad | Octubre, 2026</b>
-<br><br>
-<a href="https://drive.google.com/file/d/16HvLh5ut8jz7-PdBwu4bEtYRdTsTV2CC/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_Certificado-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificado">
-</a>
-</td>
+<hr>
 
-</tr>
+<p>
+  <img src="img/c4.png" width="250px">
+  <br>
+  <b>Taller: Animación Digital 3D Avanzada | Octubre, 2025</b>
+  <br>
+  <a href="https://drive.google.com/file/d/15zDNuvp3NoKB_sNX3axBgDfR1tbV6Wrr/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Certificado-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificado">
+  </a>
+</p>
 
-<tr>
+<hr>
 
-<td width="33%" align="center">
-<img src="img/c4.png" width="100%">
-<br>
-<b>Taller: Animación Digital D Avanzada | Octubre, 2025</b>
-<br><br>
-<a href="https://drive.google.com/file/d/15zDNuvp3NoKB_sNX3axBgDfR1tbV6Wrr/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_Certificado-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificado">
-</a>
-</td>
+<p>
+  <img src="img/c5.png" width="300px">
+  <br>
+  <b>Presentación de cortometrajes por Primera Jornada Cultura de Paz | Noviembre, 2025</b>
+  <br>
+  <a href="https://drive.google.com/file/d/1wWQZXSGZJRqLuEmBP7Ns_GTtbzK-oSgw/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Certificado-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificado">
+  </a>
+</p>
 
-<td width="33%" align="center">
-<img src="img/c5.png" width="100%">
-<br>
-<b>Presentación de cortometrajes por Primera Jornada Cultura de Paz | Noviembre, 2025</b>
-<br><br>
-<a href="https://drive.google.com/file/d/1wWQZXSGZJRqLuEmBP7Ns_GTtbzK-oSgw/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_Certificado-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificado">
-</a>
-</td>
+<hr>
 
-<td width="33%" align="center">
-<img src="img/c6.png" width="100%">
-<br>
-<b>Curso: SanaMente LibreMente: jóvenes por la paz y contra las adicciones | Febrero, 2026</b>
-<br><br>
-<a href="https://drive.google.com/file/d/1iJ6gttUqNuQVAYPhdiGfSW6QN2wdKXeM/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_Certificado-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificado">
-</a>
-</td>
-
-</tr>
-
-</table>
-
+<p>
+  <img src="img/c6.png" width="300px">
+  <br>
+  <b>Curso: SanaMente LibreMente: jóvenes por la paz y contra las adicciones | Febrero, 2026</b>
+  <br>
+  <a href="https://drive.google.com/file/d/1iJ6gttUqNuQVAYPhdiGfSW6QN2wdKXeM/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Certificado-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificado">
+  </a>
+</p>
 ---
 
 <p align="center">
@@ -378,7 +372,7 @@ Enfoque en la recuperación, la solidaridad y la unión.
 <img src="https://img.shields.io/badge/⬆️%20Volver%20Arriba-2ea44f?style=for-the-badge">
 </a>
 
-<a href="PDF/CV_NadiaPaolaNoyaOlvera.pdf">
+<a href="PDF/.pdf">
 <img src="https://img.shields.io/badge/📄%20Descargar%20CV%20PDF-blue?style=for-the-badge">
 </a>
 
