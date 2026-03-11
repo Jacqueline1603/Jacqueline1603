@@ -27,15 +27,15 @@ Perfil profesional en Entornos Virtuales
 
 <p align="center">
 
-<a href="#sobre-mi">👩‍💻 Sobre mí</a> |
-<a href="#perfil-profesional">🧑‍💼 Perfil</a> |
-<a href="#tecnologias">🛠️ Tecnologías</a> |
-<a href="#habilidades">⭐ Habilidades personales</a> |
-<a href="#idiomas">🌎 Idiomas</a> |
-<a href="#experiencia">💼 Experiencia</a> |
-<a href="#educacion">🎓 Educación</a> |
-<a href="#proyectos">🚀 Proyectos</a> |
-<a href="#certificados">📜 Certificados</a>
+<a href="#sobre-mi"> Sobre mí</a> |
+<a href="#perfil-profesional"> Perfil</a> |
+<a href="#tecnologias"> Tecnologías</a> |
+<a href="#habilidades"> Habilidades personales</a> |
+<a href="#idiomas"> Idiomas</a> |
+<a href="#experiencia"> Experiencia</a> |
+<a href="#educacion"> Educación</a> |
+<a href="#proyectos"> Proyectos</a> |
+<a href="#certificados"> Certificados</a>
 
 </p>
 
@@ -44,23 +44,23 @@ Perfil profesional en Entornos Virtuales
 </p>
 
 <a id="sobre-mi"></a>
-## 👩‍💻 Sobre mí
+## Sobre mí
 
 Me considero una persona sociable, responsable 
 
 ---
 
 <a id="perfil-profesional"></a>
-## 🧑‍💼 Perfil Profesional
+## Perfil Profesional
 
 Desarrolladora y diseñadora digital con experiencia en creación de aplicaciones de realidad aumentada, realidad virtual, modelado 3D, animación 3D, animación 2D, ilustración digital, edición y producción de medios audiovisuales, aplicaciones web responsivas, manejo de bases de datos y diseño de interfaces atractivas. Enfocada en la estética y diseño de la experiencia del usuario.
 
 ---
 
 <a id="tecnologias"></a>
-# 🛠️ Tecnologías y Herramientas
+# Tecnologías y Herramientas
 
-## 🎨 Diseño y Multimedia
+## Diseño y Multimedia
 
 <table border="0" style="border:none;">
 <tr align="center">
@@ -103,7 +103,7 @@ Canva
 </tr>
 </table>
 
-## 👨‍💻 Desarrollo
+## Desarrollo
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -111,7 +111,7 @@ Canva
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-## 🗄️ Bases de Datos
+## Bases de Datos
 
 <table border="0" style="border:none;">
 <tr align="center">
@@ -134,7 +134,7 @@ XAMPP
 </tr>
 </table>
 
-## 📊 Herramientas Digitales
+## Herramientas Digitales
 
 <table border="0" style="border:none;">
 <tr align="center">
