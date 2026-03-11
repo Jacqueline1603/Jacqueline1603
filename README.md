@@ -38,7 +38,7 @@
 
 <a id="sobre-mi"></a>
 ## Sobre mí
-> Me considero una persona sociable y altamente responsable, apasionada por la intersección entre el arte digital y la tecnología.
+> Técnica Superior Universitaria en Tecnologías de la Información con especialidad en Entornos Virtuales. Me distingo por ser una persona altamente responsable, organizada, adaptable y orientada a resultados. Cuento con experiencia sólida en producción audiovisual y diseño UI/UX, enfocada siempre en la calidad técnica y el cumplimiento de objetivos creativos dentro de equipos multidisciplinarios.
 
 ---
 
