@@ -32,6 +32,10 @@
 
 <hr />
 
+<div align="center">
+  <img src="ImagenCV/Banner 2.png" width="100%" alt="Banner" />
+</div>
+
 <a id="sobre-mi"></a>
 ## 👤 Sobre mí
 > Me considero una persona sociable y altamente responsable, apasionada por la intersección entre el arte digital y la tecnología.
@@ -48,7 +52,7 @@ Desarrolladora y diseñadora digital con experiencia en creación de aplicacione
 ## 🛠️ Tecnologías y Herramientas
 
 ### Diseño y Multimedia
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" />
@@ -59,7 +63,7 @@ Desarrolladora y diseñadora digital con experiencia en creación de aplicacione
 </p>
 
 ### Desarrollo y Bases de Datos
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
