@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PERFIL-PROFESIONAL-black?style=for-the-badge" />
+  <img src="ImagenCV/Me2-convertido-de-jpeg.png" width="350" alt="Mi foto de Perfil" />
   <h1>Jacqueline Luna Marines</h1>
   <p><strong>Diseñadora Digital | Especialidad en Diseño y Producción Audiovisual | Animación Digital</strong></p>
   
