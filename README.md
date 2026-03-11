@@ -312,60 +312,61 @@ Enfoque en la recuperación, la solidaridad y la unión.
 
 <tr>
 
-<td width="33%">
+<td width="33%" align="center">
 <img src="img/c1.png" width="100%">
 <br>
-<b>Curso: Desarrollador de Sitios Web Responsivos | Abril, 2025</b>
-<br>
-<a href="PDF/Responsivos.pdf">📄 Ver certificado</a>
+<b>Curso: Diseño publicitario digital | Abril, 2025</b>
+<br><br>
+<a href="https://drive.google.com/file/d/1pTnlrYLuQOeZhAQdjE-InAEU8Zam0eq4/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_Certificado-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificado">
+</a>
 </td>
 
-<td width="33%">
-<img src="img/c2.png" width="100%">
-<br>
-<b>Reconocimiento a creatividad en Rally TI-UTT | Octubre, 2025</b>
-<br>
-<a href="PDF/Rally.pdf">📄 Ver certificado</a>
-</td>
-
-<td width="33%">
+<td width="33%" align="center">
 <img src="img/c3.png" width="100%">
 <br>
 <b>Segundo Congreso de Tecnología y Ciberseguridad | Octubre, 2026</b>
-<br>
-<a href="PDF/TecnologiaCiberseguridad.pdf">📄 Ver certificado</a>
+<br><br>
+<a href="https://drive.google.com/file/d/16HvLh5ut8jz7-PdBwu4bEtYRdTsTV2CC/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_Certificado-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificado">
+</a>
 </td>
 
 </tr>
 
 <tr>
 
-<td width="33%">
+<td width="33%" align="center">
 <img src="img/c4.png" width="100%">
 <br>
-<b>Taller: Animación Digital 3D Avanzada | Octubre, 2025</b>
-<br>
-<a href="PDF/AnimacionAvanzada.pdf">📄 Ver certificado</a>
+<b>Taller: Animación Digital D Avanzada | Octubre, 2025</b>
+<br><br>
+<a href="https://drive.google.com/file/d/15zDNuvp3NoKB_sNX3axBgDfR1tbV6Wrr/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_Certificado-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificado">
+</a>
 </td>
 
-<td width="33%">
+<td width="33%" align="center">
 <img src="img/c5.png" width="100%">
 <br>
 <b>Presentación de cortometrajes por Primera Jornada Cultura de Paz | Noviembre, 2025</b>
-<br>
-<a href="PDF/Cortometrajes.pdf">📄 Ver certificado</a>
+<br><br>
+<a href="https://drive.google.com/file/d/1wWQZXSGZJRqLuEmBP7Ns_GTtbzK-oSgw/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_Certificado-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificado">
+</a>
 </td>
 
-<td width="33%">
+<td width="33%" align="center">
 <img src="img/c6.png" width="100%">
 <br>
 <b>Curso: SanaMente LibreMente: jóvenes por la paz y contra las adicciones | Febrero, 2026</b>
-<br>
-<a href="PDF/Saberes.pdf">📄 Ver certificado</a>
+<br><br>
+<a href="https://drive.google.com/file/d/1iJ6gttUqNuQVAYPhdiGfSW6QN2wdKXeM/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Ver_Certificado-Google_Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Certificado">
+</a>
 </td>
 
 </tr>
-
 
 </table>
 
