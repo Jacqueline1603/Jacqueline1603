@@ -81,6 +81,9 @@ Desarrolladora y diseñadora digital con experiencia en creación de aplicacione
 - **Gestión de Proyectos Digitales** y trabajo bajo objetivos.
 - **Adaptabilidad** a nuevas tecnologías y entornos de trabajo.
 - **Comunicación Efectiva** y resolución de problemas.
+- **Responsable y Leal**
+- **Puntual**
+  
 
 ---
 
