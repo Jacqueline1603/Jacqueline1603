@@ -176,9 +176,6 @@ Desarrolladora y diseñadora digital con experiencia en creación de aplicacione
 ---
 
 <div align="center">
-  <a href="#top">
-    <img src="https://img.shields.io/badge/⬆️%20Volver%20Arriba-lightgray?style=for-the-badge" />
-  </a>
   <a href="JacquelineLunaMarinesCV.pdf">
     <img src="https://img.shields.io/badge/📄%20Descargar%20CV%20PDF-blue?style=for-the-badge" />
   </a>
