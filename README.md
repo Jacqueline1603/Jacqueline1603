@@ -37,19 +37,19 @@
 </div>
 
 <a id="sobre-mi"></a>
-## 👤 Sobre mí
+## Sobre mí
 > Me considero una persona sociable y altamente responsable, apasionada por la intersección entre el arte digital y la tecnología.
 
 ---
 
 <a id="perfil-profesional"></a>
-## 🚀 Perfil Profesional
+## Perfil Profesional
 Desarrolladora y diseñadora digital con experiencia en creación de aplicaciones de **Realidad Aumentada (AR), Realidad Virtual (VR)**, modelado y animación 3D/2D, ilustración digital y edición audiovisual. Especializada en la creación de aplicaciones web responsivas y el diseño de interfaces (UI/UX) enfocadas en la estética y la experiencia del usuario.
 
 ---
 
 <a id="tecnologias"></a>
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 ### Diseño y Multimedia
 <p align="center">
@@ -76,7 +76,7 @@ Desarrolladora y diseñadora digital con experiencia en creación de aplicacione
 ---
 
 <a id="habilidades"></a>
-## 💡 Habilidades Personales
+## Habilidades Personales
 - **Creatividad y Estética** en proyectos visuales.
 - **Gestión de Proyectos Digitales** y trabajo bajo objetivos.
 - **Adaptabilidad** a nuevas tecnologías y entornos de trabajo.
@@ -88,14 +88,14 @@ Desarrolladora y diseñadora digital con experiencia en creación de aplicacione
 ---
 
 <a id="idiomas"></a>
-## 🌎 Idiomas
+## Idiomas
 - **Español** — Nativo
 - **Inglés** — Intermedio
 
 ---
 
 <a id="experiencia"></a>
-## 💼 Experiencia Laboral
+## Experiencia Laboral
 
 ### **Joyería Jalisco 💎**
 *Community Manager y Atención al Cliente | 2021 - 2023* <a href="https://drive.google.com/file/d/1xqGn2SE5xUP9wXoQf4C8Lhb8T-oKPTVt/view?usp=sharing">
@@ -115,13 +115,13 @@ Desarrolladora y diseñadora digital con experiencia en creación de aplicacione
 ---
 
 <a id="educacion"></a>
-## 🎓 Educación
+## Educación
 **TSU en Tecnologías de la Información Área Entornos Virtuales** *Universidad Tecnológica de Tlaxcala | 2024 - Presente*
 
 ---
 
 <a id="proyectos"></a>
-## 🎨 Proyectos Destacados
+## Proyectos Destacados
 
 ### 📱 Catálogo Digital Móvil
 *Aplicación móvil para tienda de dulces tradicionales.* <a href="https://youtu.be/OY4DUCtWYqg">
@@ -145,7 +145,7 @@ Desarrolladora y diseñadora digital con experiencia en creación de aplicacione
 
 ---
 
-### 👩 Campaña: Carteles Digitales Animados
+### Campaña: Carteles Digitales Animados
 
 #### 🟣 Concientización y Denuncia
 * **Rostros Invisibles** &nbsp; [<img src="https://img.shields.io/badge/GIF-VER-9370DB?style=flat-square" />](https://drive.google.com/file/d/1AUaCu1zlsa1tMAVT-G6N7GRz5LWagYcv/view?usp=sharing)
@@ -160,7 +160,7 @@ Desarrolladora y diseñadora digital con experiencia en creación de aplicacione
 ---
 
 <a id="certificados"></a>
-## 📜 Constancias y Certificaciones
+## Constancias y Certificaciones
 
 1.  **Diseño Publicitario Digital** (2025)  
     [<img src="https://img.shields.io/badge/VER_CERTIFICADO-34A853?style=flat-square&logo=googledrive&logoColor=white" />](https://drive.google.com/file/d/1pTnlrYLuQOeZhAQdjE-InAEU8Zam0eq4/view?usp=sharing)
