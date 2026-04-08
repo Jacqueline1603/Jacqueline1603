@@ -120,17 +120,6 @@ Desarrolladora y diseñadora digital con experiencia en creación de aplicacione
 
 ---
 
-<a id="proyectos-trabajo"></a>
-## Mis Proyectos de Trabajo
-<div align="center">
-  <p>Explora mi portafolio detallado de proyectos y colaboraciones profesionales en Canva.</p>
-  <a href="https://www.canva.com/folder/FAHGSLI33Ks" target="_blank">
-    <img src="https://img.shields.io/badge/VER_PORTAFOLIO-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Ver Proyectos en Canva" />
-  </a>
-</div>
-
----
-
 <a id="proyectos"></a>
 ## Proyectos Destacados
 
